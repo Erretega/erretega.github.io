@@ -1,0 +1,200 @@
+/* pattern d'une colonne de gauche*/
+.col-md-4{
+	width: 30%;
+	display: inline-block;
+}
+/* pattern d'une colonne de droite le 8 indique une colonne plus large*/
+.col-md-8{
+	padding-left: 20px;
+	border-color: black;
+	border-left-width: 10px
+
+}
+
+.volcano {
+
+padding: auto;
+  border-radius:90%;
+  height: auto;
+  display: block;
+  margin-left: 20px;
+  margin-bottom: 0px
+  margin-right: auto;
+  width: 40%;
+  border-color: black;
+  
+}
+
+.under { 
+	background-color: black;
+	padding-left: 2px;
+	color: white;
+	text-align: right;
+}
+
+.a {
+background-color: black;
+color: white;
+text-align: right;
+ }
+
+.header{
+	width:100%;
+	height: 100px;
+	background-color: black;
+	position:relative;
+
+}
+
+/*element : presentation est le logo du UCL */ 
+.presentation{
+  padding: auto;
+  border-radius:0%;
+  height: auto;
+  display: block;
+  margin-left: 20px;
+  margin-bottom: 0px
+  margin-right: auto;
+  width: 10%;
+  position:absolute;
+  bottom:0; 
+
+}
+
+.card1 {
+ border-radius: 2%;
+ border-color: darkgrey;
+ border-style: none;
+ margin-bottom: 20px
+ background-color: lightgrey;
+}
+
+.card2 {
+ border-radius: 2%;
+ border-color: lightgrey;
+ border-style: none;
+ margin-bottom: 10px
+ background-color: lightgrey;
+}
+
+
+.card3 {
+ border-radius: 2%;
+ border-color: black;
+ border-style: none;
+ margin-bottom: 10px
+ background-color: lightgrey;
+}
+
+.card4 {
+text-align: justify;	
+}
+
+.card5 {
+border-color: black;
+border-style:dashed;
+text-align: center;	
+}
+
+.card6{
+border-color: black;
+border-style:dashed;
+
+}
+
+
+.card-title1 {
+	text-align: left;
+		font-family: "Verdana"
+}
+
+.card-text1 {
+	text-align: left;
+}
+
+
+.card-title2 {
+	text-align: left;
+	text-transform: capitalize;
+	font-style: bold;
+	font-family: "Verdana"
+}
+
+.card-title3 {
+	text-align: center;
+	text-transform: capitalize;
+	font-style: bold;
+	font-family: "Verdana"
+}
+
+
+.card-text2 {
+	margin-left: 10px
+}
+
+.card-text4 {
+	text-align: center;
+	text-transform: capitalize;
+	font-style: bold;
+
+
+}
+.card3{
+	padding: 10px;
+
+}
+/*photo surla partie droite*/
+.manvswild{
+	border-radius:0%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+/* Make sure that padding behaves as expected */
+
+
+/* Container for skill bars */
+.container1 {
+  width: 100%; /* Full width */
+  background-color: #ffffff; /* white background */
+  padding-left:0;
+  padding-right:0;
+ 
+	  max-width: 350px;
+	  height: 60%;
+	  background: #e6eae3;
+	  background: lightgrey;
+	  overflow: hidden;
+	  border-radius: 5px
+	  border-box:padding: 0px;
+
+
+  * {box-sizing:border-box}
+}
+
+.skills {
+
+  margin-left: 0;
+  text-align: left; /* Right-align text */
+  padding-top: 0px; /* Add top padding */
+  padding-bottom: 10px; /* Add bottom padding */
+  color: #ffffff; /* White text color */
+  height: 20px
+
+}
+
+.hazard {width: 15%; background-color: #bdd7e7;} /* Green */
+.resilience {width: 30%; background-color: #6baed6;} /* Blue */
+.GIS {width: 45%; background-color: #3182bd;} /* Red */
+.vulnerability {width: 60%; background-color: #08519c;} /* Dark Grey */
+
+
+
+
+
+
+
+
